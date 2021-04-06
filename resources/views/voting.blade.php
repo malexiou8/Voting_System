@@ -10,7 +10,7 @@
        <div class="row">
         <div class="col-sm-10" style="margin: 0 auto">
         
-        <h3 class="mt-3">Candidate to vote for</h3>
+        <h3 class="mt-3">Candidate to vote for:</h3>
 
         @foreach($candidates as $candidate)
         <div class="form-check mb-5 mt-3">
